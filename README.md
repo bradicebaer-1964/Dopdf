@@ -220,4 +220,4 @@ doPDF is offered as a full free version with all features and updates included. 
 Don’t miss out on the opportunity to simplify your document management. **Download doPDF today and start converting files to PDF with ease!**
 
 ---
-**Last updated:** 2026-11-10 20:16:48 UTC
+**Last updated:** 2026-11-11 01:03:05 UTC
